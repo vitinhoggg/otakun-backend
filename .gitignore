@@ -1,0 +1,58 @@
+# NetBeans
+nbproject/
+nbactions.xml
+private/
+build/
+dist/
+nb-configuration.xml
+
+# Maven
+target/
+*.war
+*.nar
+*.ear
+*.jar
+*.tar.gz
+*.zip
+
+# Spring Boot
+/spring-boot-starter/
+/spring-boot-autoconfigure/
+/spring-boot/
+/spring-boot-actuator/
+/spring-boot-test/
+/spring-boot-test-autoconfigure/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# Gradle
+.gradle/
+build/
+
+# Logs
+*.log
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Directories
+/out/
+/target/
+/dist/
+/build/
